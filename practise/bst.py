@@ -1,4 +1,4 @@
-''''python bst program for techgig'''
+'''python bst program for techgig'''
 
 class Node():
     def __init__(self,data,name):
