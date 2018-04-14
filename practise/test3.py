@@ -10,4 +10,4 @@ def prime(n):
     return ((i,j) for i,j in zip(pr[:n],pr[1:]) if j-i == 2)
 print len(list(prime(n)))
 
-
+#this would print the output
