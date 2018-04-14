@@ -1,4 +1,3 @@
-[[i]*(8/i) if 8%i==0 else [i,8-i] for i in range(1,8+1)]
 
 n = 8
 price = [1, 5, 8, 9, 10, 17, 17, 20]
