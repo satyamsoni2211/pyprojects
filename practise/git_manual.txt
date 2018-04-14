@@ -1,0 +1,42 @@
+    3  git -- version
+    4  git --version
+    5  git config --global user.name 'satyamsoni2211'
+    6  git config --global user.email 'satyamsoni@hotmail.co.uk'
+   19  git init
+   20  git add .
+   21  git commit -m 'First commit'
+   22  git remote add origin https://github.com/satyamsoni2211/pyprojects.git
+   23  git push -u origin master
+   26  cd .git/
+   30  git status
+   32  git --help
+   33  git branch
+   35  git checkout -b change practise
+   36  git checkout -b change
+   41  git status
+   42  git add rice.py
+   43  git status
+   44  git commit -m ' Have made changes to rice.py'
+   45  git push origin change
+   47  git --help
+   53  git status
+   54  git --help
+   55  git status
+   56  git status
+   59  git add bst.py
+   60  git commit -m ' improved doc string'
+   61  git status
+   62  git add .idea/workspace.xml
+   63  git status
+   64  git commit -m ' xml file push'
+   65  git status
+   67  git push origin change
+   68  git push origin --delete origin/change
+   69  git --help
+   70  git branch
+   71  git branch -d change
+   72  git branch master
+   73  git checkout master
+   74  git pull
+   75  git branch -d change
+   76  git branch
