@@ -1,0 +1,12 @@
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function wrapper
+INFO:root:function wrapper ran with args:('satyam', 21) and kwargs: {}
