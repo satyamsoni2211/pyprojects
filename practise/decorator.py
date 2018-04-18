@@ -8,7 +8,7 @@ def outer(func):
     @wraps(func)
     def inner(*args,**kwds):
         logging.info("function {} ran with args:{} and kwargs: {}".format(func.__name__,args,kwds))
-        print "running outer\n"
+        print("running outer\n")
         return func(*args,**kwds)
     return inner
 
@@ -26,7 +26,7 @@ def tme_wrap(func):
 @outer
 @tme_wrap
 def func(name,age):
-    print "I am %s and my age is %s\n" % (name,age)
+    print("I am %s and my age is %s\n" % (name,age))
 func('satyam',21)
 
 #@outer

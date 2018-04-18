@@ -74,3 +74,7 @@ INFO:root:wrapper before the original function func
 INFO:root:function func ran with args:('satyam', 21) and kwargs: {}
 INFO:root:wrapper before the original function func
 INFO:root:function func ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function func
+INFO:root:function func ran with args:('satyam', 21) and kwargs: {}
+INFO:root:wrapper before the original function func
+INFO:root:function func ran with args:('satyam', 21) and kwargs: {}
